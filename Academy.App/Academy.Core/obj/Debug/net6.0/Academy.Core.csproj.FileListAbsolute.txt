@@ -1,0 +1,12 @@
+C:\Users\Ahad\Desktop\Academy.App\Academy.Core\bin\Debug\net6.0\Academy.Core.deps.json
+C:\Users\Ahad\Desktop\Academy.App\Academy.Core\bin\Debug\net6.0\Academy.Core.dll
+C:\Users\Ahad\Desktop\Academy.App\Academy.Core\bin\Debug\net6.0\Academy.Core.pdb
+C:\Users\Ahad\Desktop\Academy.App\Academy.Core\obj\Debug\net6.0\Academy.Core.csproj.AssemblyReference.cache
+C:\Users\Ahad\Desktop\Academy.App\Academy.Core\obj\Debug\net6.0\Academy.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ahad\Desktop\Academy.App\Academy.Core\obj\Debug\net6.0\Academy.Core.AssemblyInfoInputs.cache
+C:\Users\Ahad\Desktop\Academy.App\Academy.Core\obj\Debug\net6.0\Academy.Core.AssemblyInfo.cs
+C:\Users\Ahad\Desktop\Academy.App\Academy.Core\obj\Debug\net6.0\Academy.Core.csproj.CoreCompileInputs.cache
+C:\Users\Ahad\Desktop\Academy.App\Academy.Core\obj\Debug\net6.0\Academy.Core.dll
+C:\Users\Ahad\Desktop\Academy.App\Academy.Core\obj\Debug\net6.0\refint\Academy.Core.dll
+C:\Users\Ahad\Desktop\Academy.App\Academy.Core\obj\Debug\net6.0\Academy.Core.pdb
+C:\Users\Ahad\Desktop\Academy.App\Academy.Core\obj\Debug\net6.0\ref\Academy.Core.dll

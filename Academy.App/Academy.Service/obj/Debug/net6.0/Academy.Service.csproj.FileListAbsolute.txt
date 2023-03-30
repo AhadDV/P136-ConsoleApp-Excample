@@ -1,0 +1,17 @@
+C:\Users\Ahad\Desktop\Academy.App\Academy.Service\bin\Debug\net6.0\Academy.Service.deps.json
+C:\Users\Ahad\Desktop\Academy.App\Academy.Service\bin\Debug\net6.0\Academy.Service.dll
+C:\Users\Ahad\Desktop\Academy.App\Academy.Service\bin\Debug\net6.0\Academy.Service.pdb
+C:\Users\Ahad\Desktop\Academy.App\Academy.Service\bin\Debug\net6.0\Academy.Core.dll
+C:\Users\Ahad\Desktop\Academy.App\Academy.Service\bin\Debug\net6.0\Academy.Data.dll
+C:\Users\Ahad\Desktop\Academy.App\Academy.Service\bin\Debug\net6.0\Academy.Data.pdb
+C:\Users\Ahad\Desktop\Academy.App\Academy.Service\bin\Debug\net6.0\Academy.Core.pdb
+C:\Users\Ahad\Desktop\Academy.App\Academy.Service\obj\Debug\net6.0\Academy.Service.csproj.AssemblyReference.cache
+C:\Users\Ahad\Desktop\Academy.App\Academy.Service\obj\Debug\net6.0\Academy.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ahad\Desktop\Academy.App\Academy.Service\obj\Debug\net6.0\Academy.Service.AssemblyInfoInputs.cache
+C:\Users\Ahad\Desktop\Academy.App\Academy.Service\obj\Debug\net6.0\Academy.Service.AssemblyInfo.cs
+C:\Users\Ahad\Desktop\Academy.App\Academy.Service\obj\Debug\net6.0\Academy.Service.csproj.CoreCompileInputs.cache
+C:\Users\Ahad\Desktop\Academy.App\Academy.Service\obj\Debug\net6.0\Academy.Service.csproj.CopyComplete
+C:\Users\Ahad\Desktop\Academy.App\Academy.Service\obj\Debug\net6.0\Academy.Service.dll
+C:\Users\Ahad\Desktop\Academy.App\Academy.Service\obj\Debug\net6.0\refint\Academy.Service.dll
+C:\Users\Ahad\Desktop\Academy.App\Academy.Service\obj\Debug\net6.0\Academy.Service.pdb
+C:\Users\Ahad\Desktop\Academy.App\Academy.Service\obj\Debug\net6.0\ref\Academy.Service.dll
